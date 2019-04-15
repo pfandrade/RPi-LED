@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftPM",
+        "repositoryURL": "https://github.com/apple/swift-package-manager.git",
+        "state": {
+          "branch": null,
+          "revision": "235aacc514cb81a6881364b0fedcb3dd083228f3",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "SwiftyGPIO",
+        "repositoryURL": "https://github.com/uraimo/SwiftyGPIO.git",
+        "state": {
+          "branch": null,
+          "revision": "7711f55c4d6d5675395bb269c9eb4e952da4f9e8",
+          "version": "1.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
